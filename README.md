@@ -77,10 +77,4 @@ npm start
 
 Contributions are welcome! Please fork the repository and create pull requests.
 
-## Support
 
-For support, contact us at [your-email@example.com] or open an issue.
-
----
-
-This is a comprehensive template. Let me know if you'd like me to customize it further, add specific setup steps, or include other details!
