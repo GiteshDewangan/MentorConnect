@@ -15,8 +15,8 @@
 - **SFU Architecture** for a scalable, serverless backend
 - **Caledly API** for scheduling management
 - **Google Meet API** for meeting link generation
-- Frontend framework (specify if applicable, e.g., React, Vue, etc.)
-- Authentication (e.g., Firebase Auth, OAuth, etc.)
+- Frontend framework ( React)
+- Authentication (Auth, OAuth)
 
 ## Setup Instructions
 
